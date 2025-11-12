@@ -14,7 +14,7 @@ Atatürk Üniversitesi Yazılım Mühendisliği öğrencisiyim. Kariyerime **C# 
 
 Uygulama geliştirme ve sistem yönetimi için aktif olarak kullandığım başlıca araç ve teknolojiler:
 
-
+|**Temel Diller** | **C, C++** (Algoritma & Sistem Programlama), **C#**, **JavaScript** |
 | **Back-end & Dil** | C#, .NET (Core), RESTful API |
 | **Front-end** | JavaScript (ES6+), React, HTML5, CSS3 |
 | **Veritabanı** | PostgreSQL, SQL |
