@@ -1,16 +1,42 @@
-## Hi there 👋
+# Merhaba! Ben Beyzanur ÇİMEN 👋
 
-<!--
-**beyyccm/beyyccm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atatürk Üniversitesi Yazılım Mühendisliği öğrencisiyim. Kariyerime **C# ve .NET** odaklı Back-end geliştirme ve **React** ile Front-end geliştirme yetkinliklerimi birleştirerek Full-Stack alanında yön veriyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Akademik & Pratik Temelim
+
+* **Atatürk Üniversitesi** - Yazılım Mühendisliği
+* **Patika.dev Back-end Eğitimi:** C# dilini kullanarak **.NET (Core)** framework'ü ile API geliştirme tecrübesi edindim.
+* **Patika.dev Front-end Eğitimi:** Modern kullanıcı arayüzleri geliştirmek için HTML, CSS, JavaScript ve **React** teknolojilerine hakimiyet kazandım.
+
+### 🛠️ Teknolojik Yetkinlikler (Tech Stack)
+
+Uygulama geliştirme ve sistem yönetimi için aktif olarak kullandığım başlıca araç ve teknolojiler:
+
+
+| **Back-end & Dil** | C#, .NET (Core), RESTful API |
+| **Front-end** | JavaScript (ES6+), React, HTML5, CSS3 |
+| **Veritabanı** | PostgreSQL, SQL |
+| **Versiyon Kontrol** | Git, GitHub |
+| **Sanallaştırma** | Docker (Kurulum ve Temel Bilgi) |
+
+### 💡 İlgi Alanlarım ve Gelecek Hedeflerim
+
+Full-Stack odağımın yanı sıra, sistemlerin farklı katmanlarına olan merakımı gösteren konular:
+
+* **Siber Güvenlik (Cybersecurity):** Güvenli yazılım geliştirme pratikleri (Secure Coding) ve temel zafiyet analizleri.
+* **Görüntü İşleme (Image Processing):** Yapay Zeka temelleri ve algoritmik çözümler üretme.
+
+---
+
+### 🔭 Şu Anda Üzerinde Çalıştıklarım
+
+* 💻 PostgreSQL veritabanını kullanarak, .NET ile geliştirdiğim API projelerime yeni özellikler ekliyorum.
+* 🌱 React ile kullanıcı arayüzü ve API arasındaki veri akışını yöneten yeni bir portfolyo projesi geliştiriyorum.
+
+---
+
+### 🤝 Benimle İletişime Geçin
+
+* **LinkedIn:** www.linkedin.com/in/beyzanur-çimen-b5a96829b
