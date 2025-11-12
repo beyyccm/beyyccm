@@ -36,7 +36,7 @@ Full-Stack odağımın yanı sıra, sistemlerin farklı katmanlarına olan merak
 * 🌱 React ile kullanıcı arayüzü ve API arasındaki veri akışını yöneten yeni bir portfolyo projesi geliştiriyorum.
 
 ---
-
 ### 🤝 Benimle İletişime Geçin
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beyzanur-çimen-b5a96829b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beyzanur-%C3%A7imen-b5a96829b)
+
