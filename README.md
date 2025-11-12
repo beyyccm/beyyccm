@@ -10,16 +10,16 @@ Atatürk Üniversitesi Yazılım Mühendisliği öğrencisiyim. Kariyerime **C# 
 * **Patika.dev Back-end Eğitimi:** C# dilini kullanarak **.NET (Core)** framework'ü ile API geliştirme tecrübesi edindim.
 * **Patika.dev Front-end Eğitimi:** Modern kullanıcı arayüzleri geliştirmek için HTML, CSS, JavaScript ve **React** teknolojilerine hakimiyet kazandım.
 
-### 🛠️ Teknolojik Yetkinlikler (Tech Stack)
+### 🛠️ Teknolojik Yetkinlikler 
 
 Uygulama geliştirme ve sistem yönetimi için aktif olarak kullandığım başlıca araç ve teknolojiler:
 
-|**Temel Diller** | **C, C++** (Algoritma & Sistem Programlama), **C#**, **JavaScript** |
-| **Back-end & Dil** | C#, .NET (Core), RESTful API |
-| **Front-end** | JavaScript (ES6+), React, HTML5, CSS3 |
-| **Veritabanı** | PostgreSQL, SQL |
-| **Versiyon Kontrol** | Git, GitHub |
-| **Sanallaştırma** | Docker (Kurulum ve Temel Bilgi) |
+ **Temel Diller** | **C, C++** (Algoritma & Sistem Programlama), **C#**, **JavaScript** |
+ **Back-end & Dil** | C#, .NET (Core), RESTful API |
+ **Front-end** | JavaScript (ES6+), React, HTML5, CSS3 |
+ **Veritabanı** | PostgreSQL, SQL |
+ **Versiyon Kontrol** | Git, GitHub |
+ **Sanallaştırma** | Docker (Kurulum ve Temel Bilgi) |
 
 ### 💡 İlgi Alanlarım ve Gelecek Hedeflerim
 
