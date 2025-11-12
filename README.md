@@ -39,4 +39,4 @@ Full-Stack odağımın yanı sıra, sistemlerin farklı katmanlarına olan merak
 
 ### 🤝 Benimle İletişime Geçin
 
-* **LinkedIn:** www.linkedin.com/in/beyzanur-çimen-b5a96829b
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beyzanur-çimen-b5a96829b) 
